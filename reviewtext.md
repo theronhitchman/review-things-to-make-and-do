@@ -19,7 +19,7 @@ humor keeps you smiling and turning pages while Matt introduces you to
 some neat things about numbers and shapes. The book has many personal stories,
 and Matt is engaging, enthusiastic, and friendly. He is having so much fun doing
 math and he just wants to share that with everyone. After reading the book, I
-can't help but call him Matt. It feels too weird to say Mr. Parker.
+can't help but call him Matt. It feels weird to say Mr. Parker.
 
 Second, Matt keeps the language simple and direct. He doesn't assume any
 mathematical training from you. Actually, that's not true. He assumes that
@@ -37,7 +37,7 @@ friend at the next math club meeting!
 If you had the sort of school mathematics education that Matt worries you did,
 then you probably wonder what a mathematically inclined person does with
 their time. Matt takes the opportunity to show you what doing mathematics
-is like: asking questions, running little experiments, making examples, sorting
+is like: asking questions, running experiments, making examples, sorting
 truths out from the guesses and dead-ends. He shares bits of how the
 mathematics community does its work as a group, too. You will get a sense of
 what your friend-doing-homework is really doing.
@@ -65,5 +65,4 @@ appreciate math together.
 ----
 
 _TJ Hitchman is an Associate Professor of Mathematics at the University of
-Northern Iowa. He enjoys geometry and asking students questions which they don't
-know they can handle._
+Northern Iowa. He enjoys geometry, soccer, and asking questions._
